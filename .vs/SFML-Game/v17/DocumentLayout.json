@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\C\u002B\u002B\\SFML\\SFML-Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3FD5F5-C7A1-4BFE-9930-4B18DAD6416F}|SFML-Game.vcxproj|D:\\Study\\C\u002B\u002B\\SFML\\SFML-Game\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD3FD5F5-C7A1-4BFE-9930-4B18DAD6416F}|SFML-Game.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3FD5F5-C7A1-4BFE-9930-4B18DAD6416F}|SFML-Game.vcxproj|D:\\Study\\C\u002B\u002B\\SFML\\SFML-Game\\SFML-Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD3FD5F5-C7A1-4BFE-9930-4B18DAD6416F}|SFML-Game.vcxproj|solutionrelative:SFML-Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "D:\\Study\\C\u002B\u002B\\SFML\\SFML-Game\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "D:\\Study\\C\u002B\u002B\\SFML\\SFML-Game\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAACABAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T02:16:48.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SFML-Game.cpp",
+              "DocumentMoniker": "D:\\Study\\C\u002B\u002B\\SFML\\SFML-Game\\SFML-Game.cpp",
+              "RelativeDocumentMoniker": "SFML-Game.cpp",
+              "ToolTip": "D:\\Study\\C\u002B\u002B\\SFML\\SFML-Game\\SFML-Game.cpp",
+              "RelativeToolTip": "SFML-Game.cpp",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAF0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T00:02:54.234Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
